@@ -16,7 +16,7 @@ This example is using the URL download link, which will download the data into t
 ## Training Process
 - Obtain data from [open source](https://universe.roboflow.com/) . This example is using URL to download data in form of images and labels<br/>
 - Check and change directory for training
-- Train the YOLOv5s algorith with `data.yaml` and weights
+- Train the YOLOv5s algorith with `data.yaml` and weights <br/>
 **Note** You can use pretrained weights for any YOLOv5 architecture or just use `weights = ""` for randomized initial weights
 
 
